@@ -1,0 +1,3 @@
+﻿文件下载网址  =>  文件保存路径
+http://demo.cssmoban.com/cssthemes3/ft5_53_minimal/css/images/photography.png  =>  D:\\demo.cssmoban.com\images\photography.png
+http://demo.cssmoban.com/cssthemes3/ft5_53_minimal/images/loader.gif  =>  D:\\demo.cssmoban.com\images\loader.gif
